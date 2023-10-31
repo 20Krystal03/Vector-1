@@ -14,6 +14,7 @@ int main()
     //    cout << numbers[x] << endl;
     //}
 
+
     //string name;
     //double g;
     //vector<double> grades;
@@ -21,7 +22,6 @@ int main()
     //double average;
     //cout << "Enter student name --> ";
     //getline(cin, name);
-
     //for (int x = 0; x < 5; x++) {
     //    cout << "Enter Grade # " << (x + 1) << " ---> ";
     //    cin >> g;
@@ -35,6 +35,7 @@ int main()
     //for (int x = 0; x < grades.size(); x++) {
     //    cout << grades[x] << endl;
     //}
+
 
     vector<int> numbers = { 23,56,78,89,90 };
     cout << "Original Vector" << endl;
